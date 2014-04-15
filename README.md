@@ -1,6 +1,9 @@
 web-garden
 ==========
 
+##Spark Core
+http://www.spark.io   
+https://community.spark.io/t/example-logging-and-graphing-data-from-your-spark-core-using-google/2929/18   
 
 ##PCDuino configuration
 
